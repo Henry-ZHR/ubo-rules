@@ -7,6 +7,7 @@ luogu.com.cn##[src="https://cdn.luogu.com.cn/upload/image_hosting/8uzmuj4p.png"]
 luogu.com.cn##[src="https://cdn.luogu.com.cn/upload/image_hosting/auo0kbd5.png"]:upward(2)
 luogu.com.cn##[src="https://cdn.luogu.com.cn/upload/image_hosting/e23q8u6o.png"]:upward(2)
 luogu.com.cn##[src="https://cdn.luogu.com.cn/upload/image_hosting/h01n9pv3.png"]:upward(2)
+luogu.com.cn##[src="https://cdn.luogu.com.cn/upload/image_hosting/i1rnhsx9.png"]:upward(2)
 luogu.com.cn##[src="https://cdn.luogu.com.cn/upload/image_hosting/icivh7z4.png"]:upward(2)
 luogu.com.cn##[src="https://cdn.luogu.com.cn/upload/image_hosting/oc1kto2x.png"]:upward(2)
 luogu.com.cn##[src="https://cdn.luogu.com.cn/upload/image_hosting/p1x9ti01.png"]:upward(2)
